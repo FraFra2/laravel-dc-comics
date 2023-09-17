@@ -11,7 +11,6 @@ Homepage
     Homepage
 </h1>
 
-<div class="gatto"></div>
 
-<img src="{{ Vite::asset('resources/img/gatto.jpg') }}" class="img-fluid" alt="">
+{{-- <img src="{{ Vite::asset('resources/img/gatto.jpg') }}" class="img-fluid" alt=""> --}}
 @endsection
