@@ -8,7 +8,7 @@ Homepage
 
 @section('main-content')
 <h1>
-    Homepage
+    <a href="/comics">COMICS</a>
 </h1>
 
 
